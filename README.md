@@ -16,7 +16,7 @@
 
 | ⚡ AI Systems | 🖥️ Full-Stack Dev | 🇵🇰 Pakistan | 🌍 Remote Ready |
 |:---:|:---:|:---:|:---:|
-| **Production-Grade AI** | **Next.js · FastAPI · Laravel** | **Faisalabad** | **Open to Work** |
+| **Production-Grade AI** | **Next.js · FastAPI · Laravel** | **Lahore** | **Open to Work** |
 
 </div>
 
