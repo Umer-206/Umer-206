@@ -58,7 +58,7 @@ I build end-to-end AI and web systems — from real-time CUDA-accelerated video 
 <tr>
 <td align="center" valign="top" width="110">
   <br/>
-  <img src="images/Bristol_Mayer_Biotech_Logo.jfif" width="75" height="75"/>
+  <img src="images/Bristol_Mayer_Biotech_Logo.png" width="75" height="75"/>
   <br/><br/>
   <sub><b>Jan 2026 – Present</b></sub>
 </td>
@@ -102,7 +102,7 @@ I build end-to-end AI and web systems — from real-time CUDA-accelerated video 
 <tr>
 <td align="center" valign="top" width="110">
   <br/>
-  <img src="images/alpha_network_logo.jfif" width="75" height="75"/>
+  <img src="images/alpha_network_logo.png" width="75" height="75"/>
   <br/><br/>
   <sub><b>Aug 2025 – Sep 2025</b></sub>
 </td>
@@ -165,7 +165,7 @@ Punjab Group of Colleges &nbsp;&nbsp;<code>2020 – 2021</code>
 <tr><td colspan="2">&nbsp;</td></tr>
 <tr>
 <td align="center" valign="middle" width="110">
-  <img src="images/Allied_School_Logo.jfif" width="75" height="75"/>
+  <img src="images/Allied_School_Logo.png" width="75" height="75"/>
 </td>
 <td valign="middle">
 <b>Matric — Computer Science</b><br/>
@@ -181,12 +181,12 @@ Allied School System &nbsp;&nbsp;<code>2018 – 2019</code>
 | &nbsp; | Certification | Issuing Organization |
 |:---:|---|---|
 | <img src="images/University_of_Maryland_logo.png" height="36"/> | AI and Career Empowerment | University of Maryland |
-| <img src="images/LangChain_logo.webp" height="36"/> | LangGraph Essentials – Python | LangChain |
+| <img src="images/LangChain_logo.png" height="36"/> | LangGraph Essentials – Python | LangChain |
 | <img src="images/Simplilearn_logo.png" height="36"/> | n8n Course: No Code AI Agent Builder | Simplilearn |
 | <img src="images/HP%20LIFE_logo.png" height="36"/> | Data Science & Analytics | HP LIFE |
 | <img src="images/HP%20LIFE_logo.png" height="36"/> | AI for Business Professionals | HP LIFE |
 | <img src="images/HP%20LIFE_logo.png" height="36"/> | AI for Beginners | HP LIFE |
-| <img src="images/Huawei_logo.jfif" height="36"/> | Huawei Certified Cloud Developer Associate – AI | Huawei |
+| <img src="images/Huawei_logo.png" height="36"/> | Huawei Certified Cloud Developer Associate – AI | Huawei |
 
 ---
 
