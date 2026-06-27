@@ -22,7 +22,7 @@
 {
   "name":      "Muhammad Umer Iqbal",
   "role":      "AI Engineer & Full-Stack Developer",
-  "location":  "Faisalabad, Pakistan",
+  "location":  "Lahore, Pakistan",
   "education": "BS Gaming & Multimedia (Computer Software Engineering) - Superior University",
   "focus": [
     "Production-grade Computer Vision systems",
