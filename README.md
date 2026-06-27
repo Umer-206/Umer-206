@@ -6,6 +6,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=80&lines=AI+Engineer+%26+Full-Stack+Developer+%F0%9F%87%B5%F0%9F%87%B0;Computer+Vision+%7C+RAG+Pipelines+%7C+Voice+AI+Agents;FastAPI+%7C+Next.js+%7C+YOLOv8+%7C+PostgreSQL+%7C+Laravel" alt="Typing SVG" />
 <br>
+
+
 <p>
   <img src="https://komarev.com/ghpvc/?username=Umer-206&label=Profile+Views&color=00ff41&style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Open_To_Work-00ff41?style=flat-square&labelColor=0d1117" />
