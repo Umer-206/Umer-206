@@ -12,6 +12,12 @@
   <img src="https://img.shields.io/badge/Focus-AI_%26_Full--Stack-00ff41?style=flat-square&labelColor=0d1117" />
 </p>
 
+---
+
+| ⚡ AI Systems | 🖥️ Full-Stack Dev | 🇵🇰 Pakistan | 🌍 Remote Ready |
+|:---:|:---:|:---:|:---:|
+| **Production-Grade AI** | **Next.js · FastAPI · Laravel** | **Faisalabad** | **Open to Work** |
+
 </div>
 
 ---
@@ -36,55 +42,226 @@
 
 I build end-to-end AI and web systems — from real-time CUDA-accelerated video pipelines to full-stack e-commerce platforms with integrated AI chatbots. My work spans computer vision, LLM integrations, and scalable backend APIs delivered to production environments.
 
+<div align="center">
+
+| 🤖 AI & Agents | 👁️ Computer Vision | 📚 RAG & LLMs | 🌐 Web Platforms |
+|:---:|:---:|:---:|:---:|
+| Voice · Automation · n8n | YOLOv8 · ByteTrack · CUDA | LangChain · pgvector · GPT-4o | Next.js · FastAPI · Laravel |
+
+</div>
+
 ---
 
 ## Professional Experience
 
-### Bristol Mayer Biotech &nbsp;·&nbsp; AI Engineer
-`Jan 2026 – Present`
+<table width="100%">
+<tr>
+<td align="center" valign="top" width="110">
+  <br/>
+  <img src="images/Bristol_Mayer_Biotech_Logo.jfif" width="75" height="75"/>
+  <br/><br/>
+  <sub><b>Jan 2026 – Present</b></sub>
+</td>
+<td valign="top">
+<br/>
+<h3>Bristol Mayer Biotech &nbsp;·&nbsp; AI Engineer</h3>
 
-- Designing and deploying AI-powered solutions for biotech workflows and data pipelines
-- Building production-grade RAG systems for knowledge retrieval and document intelligence
-- Integrating LLM APIs into internal tooling and client-facing applications
-- Collaborating across cross-functional teams to deliver scalable AI infrastructure
+&bull; Designing and deploying AI-powered solutions for biotech workflows and data pipelines<br/>
+&bull; Building production-grade RAG systems for knowledge retrieval and document intelligence<br/>
+&bull; Integrating LLM APIs into internal tooling and client-facing applications<br/>
+&bull; Collaborating across cross-functional teams to deliver scalable AI infrastructure<br/>
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-### DeepVision.ai &nbsp;·&nbsp; Generative AI Engineer (Intern)
-`Oct 2025 – Dec 2025`
+<table width="100%">
+<tr>
+<td align="center" valign="top" width="110">
+  <br/>
+  <img src="images/DeepVision.ai_logo.png" width="75" height="75"/>
+  <br/><br/>
+  <sub><b>Oct 2025 – Dec 2025</b></sub>
+</td>
+<td valign="top">
+<br/>
+<h3>DeepVision.ai &nbsp;·&nbsp; Generative AI Engineer (Intern)</h3>
 
-- Developed and fine-tuned generative AI pipelines using state-of-the-art LLM frameworks
-- Built and evaluated RAG architectures with vector search and semantic retrieval
-- Implemented prompt engineering workflows and LangChain-based agent pipelines
-- Contributed to research on multi-modal AI and document understanding systems
+&bull; Developed and fine-tuned generative AI pipelines using state-of-the-art LLM frameworks<br/>
+&bull; Built and evaluated RAG architectures with vector search and semantic retrieval<br/>
+&bull; Implemented prompt engineering workflows and LangChain-based agent pipelines<br/>
+&bull; Contributed to research on multi-modal AI and document understanding systems<br/>
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-### Alpha Network &nbsp;·&nbsp; AI Engineer (Intern)
-`Aug 2025 – Sep 2025`
+<table width="100%">
+<tr>
+<td align="center" valign="top" width="110">
+  <br/>
+  <img src="images/alpha_network_logo.jfif" width="75" height="75"/>
+  <br/><br/>
+  <sub><b>Aug 2025 – Sep 2025</b></sub>
+</td>
+<td valign="top">
+<br/>
+<h3>Alpha Network &nbsp;·&nbsp; AI Engineer (Intern)</h3>
 
-- Built the **One-Click Reordering Assistant** — an AI-powered tool that analyzes purchase history and inventory data to automatically generate and submit reorder requests with a single click, reducing manual procurement time significantly
-- Developed backend API integrations and LLM-driven decision logic for the assistant
-- Conducted QA and optimization of AI inference pipelines in a production staging environment
+&bull; Built the <b>One-Click Reordering Assistant</b> — an AI-powered tool that analyzes purchase history and inventory data to automatically generate and submit reorder requests with a single click, reducing manual procurement time significantly<br/>
+&bull; Developed backend API integrations and LLM-driven decision logic for the assistant<br/>
+&bull; Conducted QA and optimization of AI inference pipelines in a production staging environment<br/>
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-### MH TECHNOLOGIES &nbsp;·&nbsp; Laravel Developer
-`Feb 2023`
+<table width="100%">
+<tr>
+<td align="center" valign="top" width="110">
+  <br/>
+  <img src="images/MH_TECHNOLOGIES_logo.png" width="75" height="75"/>
+  <br/><br/>
+  <sub><b>Feb 2023</b></sub>
+</td>
+<td valign="top">
+<br/>
+<h3>MH TECHNOLOGIES &nbsp;·&nbsp; Laravel Developer</h3>
 
-- Developed and maintained web applications using PHP Laravel and MySQL
-- Built RESTful APIs and admin dashboards for client projects
-- Implemented authentication, role-based access control, and CRUD operations
+&bull; Developed and maintained web applications using PHP Laravel and MySQL<br/>
+&bull; Built RESTful APIs and admin dashboards for client projects<br/>
+&bull; Implemented authentication, role-based access control, and CRUD operations<br/>
+</td>
+</tr>
+</table>
 
 ---
 
 ## Education
 
-| Degree | Institution | Period |
-|---|---|---|
-| BS Gaming & Multimedia (Computer Software Engineering) | The Superior University | 2021 – 2025 |
-| ICS — Computer Science, Math, Physics | Punjab Group of Colleges | 2020 – 2021 |
-| Matric — Computer Science | Allied School System | 2018 – 2019 |
+<table width="100%">
+<tr>
+<td align="center" valign="middle" width="110">
+  <img src="images/suoerior_university_Logo.png" width="75" height="75"/>
+</td>
+<td valign="middle">
+<b>BS Gaming & Multimedia (Computer Software Engineering)</b><br/>
+The Superior University &nbsp;&nbsp;<code>2021 – 2025</code>
+</td>
+</tr>
+<tr><td colspan="2">&nbsp;</td></tr>
+<tr>
+<td align="center" valign="middle" width="110">
+  <img src="images/Punjab_Collage_Logo.png" width="75" height="75"/>
+</td>
+<td valign="middle">
+<b>ICS — Computer Science, Math, Physics</b><br/>
+Punjab Group of Colleges &nbsp;&nbsp;<code>2020 – 2021</code>
+</td>
+</tr>
+<tr><td colspan="2">&nbsp;</td></tr>
+<tr>
+<td align="center" valign="middle" width="110">
+  <img src="images/Allied_School_Logo.jfif" width="75" height="75"/>
+</td>
+<td valign="middle">
+<b>Matric — Computer Science</b><br/>
+Allied School System &nbsp;&nbsp;<code>2018 – 2019</code>
+</td>
+</tr>
+</table>
+
+---
+
+## Licenses & Certifications
+
+| &nbsp; | Certification | Issuing Organization |
+|:---:|---|---|
+| <img src="images/University_of_Maryland_logo.png" height="36"/> | AI and Career Empowerment | University of Maryland |
+| <img src="images/LangChain_logo.webp" height="36"/> | LangGraph Essentials – Python | LangChain |
+| <img src="images/Simplilearn_logo.png" height="36"/> | n8n Course: No Code AI Agent Builder | Simplilearn |
+| <img src="images/HP%20LIFE_logo.png" height="36"/> | Data Science & Analytics | HP LIFE |
+| <img src="images/HP%20LIFE_logo.png" height="36"/> | AI for Business Professionals | HP LIFE |
+| <img src="images/HP%20LIFE_logo.png" height="36"/> | AI for Beginners | HP LIFE |
+| <img src="images/Huawei_logo.jfif" height="36"/> | Huawei Certified Cloud Developer Associate – AI | Huawei |
+
+---
+
+## Featured Projects
+
+### YouTube Video Summarizer Agent
+
+> **AI-powered video summarization web app built with Streamlit**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+| Layer | Technology |
+|---|---|
+| UI / Frontend | Streamlit |
+| AI Pipeline | LLM Summarization · Transcript Extraction API |
+| Storage | Session-based history tracking |
+| Export | Downloadable summary reports |
+
+- Automatic transcript fetching from YouTube video URLs
+- LLM-driven summarization with structured output
+- Persistent history panel for previously summarized videos
+- One-click summary download in text format
+
+---
+
+### Automated Fuel Station Audit System
+
+> **Production-grade Computer Vision solution deployed at Shell fuel stations**
+
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+| Layer | Technology |
+|---|---|
+| Object Detection | YOLOv8 (custom-trained) |
+| Vehicle Tracking | ByteTrack multi-object tracker |
+| Inference | CUDA · GPU-accelerated OpenCV |
+| Backend | Python · Flask · WebSockets |
+
+- Real-time staff compliance detection — uniform and PPE verification on live feeds
+- Multi-vehicle tracking across entry, service, and exit zones
+- Service time calculation per vehicle with automatic SLA breach flagging
+- Live dashboard streamed via WebSockets for station managers
+
+---
+
+### Bristol Cosmetics ERP & E-Commerce Platform
+
+> **Full-stack e-commerce platform with integrated ERP, AI chatbot, and CDN-backed media**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+| Layer | Technology |
+|---|---|
+| Frontend | Next.js 14 · TypeScript · Tailwind CSS |
+| Backend API | FastAPI (Python) |
+| Database | MySQL |
+| Media / CDN | Cloudinary |
+| Auth | JWT — access + refresh token flow |
+| AI Chatbot | LLM-integrated customer support agent |
+
+- Storefront with product catalog, search, cart, and checkout
+- Admin ERP dashboard — orders, inventory, analytics, and role management
+- AI chatbot for context-aware customer support on the storefront
+- SMTP email flows for order confirmations, shipping updates, and password resets
 
 ---
 
@@ -131,78 +308,6 @@ I build end-to-end AI and web systems — from real-time CUDA-accelerated video 
 | Containerization | Docker |
 | Real-time | WebSockets · Redis |
 | Version Control | Git · GitHub |
-
----
-
-## Licenses & Certifications
-
-| Certification | Issuing Organization |
-|---|---|
-| AI and Career Empowerment | University of Maryland |
-| LangGraph Essentials – Python | LangChain |
-| n8n Course: No Code AI Agent Builder | Simplilearn |
-| Data Science & Analytics | HP LIFE |
-| AI for Business Professionals | HP LIFE |
-| AI for Beginners | HP LIFE |
-| Huawei Certified Cloud Developer Associate – AI | Huawei |
-
----
-
-## Featured Projects
-
-### YouTube Video Summarizer Agent
-
-> **AI-powered video summarization web app built with Streamlit**
-
-| Layer | Technology |
-|---|---|
-| UI / Frontend | Streamlit |
-| AI Pipeline | LLM Summarization · Transcript Extraction API |
-| Storage | Session-based history tracking |
-| Export | Downloadable summary reports |
-
-- Automatic transcript fetching from YouTube video URLs
-- LLM-driven summarization with structured output
-- Persistent history panel for previously summarized videos
-- One-click summary download in text format
-
----
-
-### Automated Fuel Station Audit System
-
-> **Production-grade Computer Vision solution deployed at Shell fuel stations**
-
-| Layer | Technology |
-|---|---|
-| Object Detection | YOLOv8 (custom-trained) |
-| Vehicle Tracking | ByteTrack multi-object tracker |
-| Inference | CUDA · GPU-accelerated OpenCV |
-| Backend | Python · Flask · WebSockets |
-
-- Real-time staff compliance detection — uniform and PPE verification on live feeds
-- Multi-vehicle tracking across entry, service, and exit zones
-- Service time calculation per vehicle with automatic SLA breach flagging
-- Live dashboard streamed via WebSockets for station managers
-
----
-
-### Bristol Cosmetics ERP & E-Commerce Platform
-
-> **Full-stack e-commerce platform with integrated ERP, AI chatbot, and CDN-backed media**
-
-| Layer | Technology |
-|---|---|
-| Frontend | Next.js 14 · TypeScript · Tailwind CSS |
-| Backend API | FastAPI (Python) |
-| Database | MySQL |
-| Media / CDN | Cloudinary |
-| Auth | JWT — access + refresh token flow |
-| AI Chatbot | LLM-integrated customer support agent |
-
-- Storefront with product catalog, search, cart, and checkout
-- Admin ERP dashboard — orders, inventory, analytics, and role management
-- AI chatbot for context-aware customer support on the storefront
-- SMTP email flows for order confirmations, shipping updates, and password resets
 
 ---
 
@@ -259,7 +364,6 @@ I build end-to-end AI and web systems — from real-time CUDA-accelerated video 
 | LinkedIn | https://www.linkedin.com/in/muhammad-umer-iqbal-b73768185/ |
 | Portfolio | https://my-portfolio-gray-theta-74.vercel.app/ |
 
-
 </div>
 
 ---
@@ -274,6 +378,6 @@ I build end-to-end AI and web systems — from real-time CUDA-accelerated video 
 > _
 ```
 
-*Lahore, Pakistan — available for remote work globally.*
+*Faisalabad, Pakistan — available for remote work globally.*
 
 </div>
